@@ -2,4 +2,4 @@ Hi 👋 My name is sanya
 ======================
 
 * ✉️  You can contact me at [sanya.sae@ku.th](mailto:sanya.sae@ku.th)
-![](https://komarev.com/ghpvc/?sanyasae-png&color=green)
+![](https://komarev.com/ghpvc/?username=sanyasae-png&color=green)
